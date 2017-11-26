@@ -1,3 +1,4 @@
 abcd
 # simple pull
-bay gio la push len remote git push
+bay gio la push len remote git push 
+bay gio la SSH remote
